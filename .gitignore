@@ -1,0 +1,6 @@
+# ignore generated documentation
+docs/
+docs.tar
+docs.tar.gz
+# ignore executable
+myexe
